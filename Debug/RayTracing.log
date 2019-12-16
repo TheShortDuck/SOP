@@ -1,0 +1,15 @@
+﻿  RayTracing.cpp
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\vctr.h(55,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\hits_list.h(20,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\material.h(15,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\material.h(15,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\material.h(15,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(15,5): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(27,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(28,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(28,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(46,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(47,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(48,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(49,71): warning C4305: 'argument': truncation from 'double' to 'float'
+  RayTracing.vcxproj -> C:\Users\Andreas\source\repos\RayTracing\Debug\RayTracing.exe

@@ -1,0 +1,28 @@
+﻿  RayTracing.cpp
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\vctr.h(55,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\hits_list.h(20,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\material.h(17,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\material.h(34,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\material.h(34,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\material.h(34,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\material.h(87,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(15,5): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(27,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(28,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(28,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(47,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(47,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(48,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(49,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(49,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(49,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(50,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(50,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(51,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andreas\source\repos\RayTracing\RayTracing\RayTracing.cpp(51,85): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  1 of 199 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RayTracing.vcxproj -> C:\Users\Andreas\source\repos\RayTracing\Release\RayTracing.exe
